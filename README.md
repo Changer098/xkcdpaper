@@ -10,7 +10,7 @@ Basically ripping off Neil N's [answer](http://stackoverflow.com/a/1061682) on S
 
 ## Build
 There is no visual studio solution, nor is there a batch file for building the project (TODO), so you have to compile csc.
-The basic command is `csc.exe /r:[Json.Net DLL Location] /out:xkcdpaper.exe xkcdpaper.cs
+The basic command is `csc.exe /r:[Json.Net DLL Location] /out:xkcdpaper.exe xkcdpaper.cs`
 
 ## TODO
 1. Create a build script ||
